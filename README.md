@@ -2,10 +2,7 @@
 This Project is a foundation for managing student information within a mobile application. Users can add new student records, view existing records, and delete records as needed.  This app utilizes SQLite as the embedded database to store and manage student information.
 ## Design
 ![Design ](https://github.com/Rudy9025/Database-Connectivity-SQLite-Android-App/assets/95328967/4da7b199-6a6c-41f6-be0b-5396fe0beced)
-## Insertion
-![1](https://github.com/Rudy9025/Database-Connectivity-SQLite-Android-App/assets/95328967/05eb8fd1-a3b0-4450-821d-368d60aead01)
-## Display database
-![display](https://github.com/Rudy9025/Database-Connectivity-SQLite-Android-App/assets/95328967/2fe631ae-afd8-492d-a43a-15977645023d)
+
 
 # Project Components
 1. **Database Helper Class (`MyDB.java`):**
